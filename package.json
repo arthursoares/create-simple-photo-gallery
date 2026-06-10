@@ -1,0 +1,35 @@
+{
+  "name": "create-simple-photo-gallery",
+  "version": "0.2.0",
+  "description": "Scaffold a simple-photo-gallery site: a fork-free photo gallery for Astro + GitHub Pages. Run `npm create simple-photo-gallery@latest`.",
+  "type": "module",
+  "bin": {
+    "create-simple-photo-gallery": "index.mjs"
+  },
+  "files": [
+    "index.mjs"
+  ],
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "keywords": [
+    "create",
+    "scaffold",
+    "photo-gallery",
+    "astro",
+    "github-pages",
+    "photography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthursoares/create-simple-photo-gallery.git"
+  },
+  "homepage": "https://github.com/arthursoares/simple-photo-gallery",
+  "author": "Arthur Soares",
+  "license": "MIT",
+  "dependencies": {
+    "@clack/prompts": "^0.11.0",
+    "giget": "^1.2.3",
+    "picocolors": "^1.1.0"
+  }
+}
