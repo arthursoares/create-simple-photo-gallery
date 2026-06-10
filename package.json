@@ -1,6 +1,6 @@
 {
   "name": "create-simple-photo-gallery",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Scaffold a simple-photo-gallery site: a fork-free photo gallery for Astro + GitHub Pages. Run `npm create simple-photo-gallery@latest`.",
   "type": "module",
   "bin": {

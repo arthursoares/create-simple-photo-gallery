@@ -30,7 +30,7 @@ import pc from 'picocolors';
 
 /** The template tag this CLI version scaffolds. Bump together with releases. */
 const TEMPLATE = 'arthursoares/simple-photo-gallery';
-const TEMPLATE_REF = 'v0.2.1';
+const TEMPLATE_REF = 'v0.2.2';
 
 /* ----------------------------------------------------------- arg parsing */
 
